@@ -12,7 +12,6 @@ h1{ text-shadow: 2px 5px 5px #2f3542; word-spacing: 10px; padding: 20px ;margin:
 .centerDiv{width: 70%; height: 450px; box-shadow:2px 2px 2px 5px white;  display: flex;
     flex-direction: column; align-items: center; background: #57606f; color: white; margin-top: 50px }
 
-
 .details{ text-align: center; text-transform: uppercase; }
 
 .details label{font-size: 1.4rem;}

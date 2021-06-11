@@ -12,6 +12,7 @@ $(document).ready(function (){
         $('.imgChange').attr('src',` https://joeschmoe.io/api/v1/${name}`);
         const b = $('.imgChange');
         console.log(b);
+        console.log(b);
 
 
     });
